@@ -12,6 +12,7 @@ Source0: http://prdownloads.sourceforge.net/linux-lc100020/%{distname}.tar.bz2
 License: As-Is
 Group: System/Kernel and hardware
 Url: http://linux-lc100020.sourceforge.net/
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
 
 %description

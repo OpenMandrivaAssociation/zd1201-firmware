@@ -2,7 +2,7 @@
 %define name %{module}-firmware
 %define version 0.14
 %define distname %{module}-%{version}-fw
-%define release %mkrel 2
+%define release %mkrel 3
 
 Summary: Firmware files for the ZD1201 chip
 Name: %{name}

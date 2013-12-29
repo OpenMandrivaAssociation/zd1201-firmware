@@ -6,7 +6,7 @@
 Summary:	Firmware files for the ZD1201 chip
 Name:		%{name}
 Version:	%{version}
-Release:	5
+Release:	6
 Source0:	http://prdownloads.sourceforge.net/linux-lc100020/%{distname}.tar.bz2
 License:	As-Is
 Group:		System/Kernel and hardware
